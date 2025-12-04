@@ -7,7 +7,7 @@
 ;; Maintainer: Yves Zoundi <yves_zoundi@hotmail.com>
 ;; URL: https://github.com/yveszoundi/eglot-java
 ;; Keywords: convenience, languages
-;; Package-Requires: ((emacs "26.1") (eglot "1.0") (jsonrpc "1.0.0"))
+;; Package-Requires: ((emacs "30.1") (jsonrpc "1.0.0"))
 
 ;; This program is free software; you can redistribute it and/or modify
 ;; it under the terms of the GNU General Public License as published by
